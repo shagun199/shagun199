@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shagun Deogharkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun199&label=Profile%20views&color=0e75b6&style=flat" alt="shagun199" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun199" alt="shagun199" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shagun__d" target="blank"><img src="https://img.shields.io/twitter/follow/shagun__d?logo=twitter&style=for-the-badge" alt="shagun__d" /></a> </p>
 
 - 🔭 I’m currently working on **backend apis**
@@ -28,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagun199&show_icons=true&locale=en" alt="shagun199" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagun199&" alt="shagun199" /></p>
-
-
