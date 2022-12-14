@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shagun__d" target="blank"><img src="https://img.shields.io/twitter/follow/shagun__d?logo=twitter&style=for-the-badge" alt="shagun__d" /></a> </p>
 
-- 🔭 I’m currently working on **backend apis**
+<!-- - 🔭 I’m currently working on **backend apis** -->
 
 - 🌱 I’m currently learning **MERN STACK**
 
