@@ -5,9 +5,9 @@
 
 <!-- - 🔭 I’m currently working on **backend apis** -->
 
-- 🌱 I’m currently learning **REACT-NATIVE
+- 🌱 I’m currently learning **REACT-NATIVE**
 
-- 👯 I’m looking to collaborate on **open source projects**
+<!-- - 👯 I’m looking to collaborate on **open source projects** -->
 
 - 📫 How to reach me **shagun199@gmail.com**
 
